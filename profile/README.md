@@ -2,4 +2,4 @@
 
 ### You can contribute to any project or add your own project
 
-### I might add more things when time finds me unattended
+### I might add more things when time finds me otherwise unattended
